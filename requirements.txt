@@ -1,0 +1,4 @@
+fastapi
+aiohttp
+python-dotenv
+requests
